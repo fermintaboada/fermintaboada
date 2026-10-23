@@ -4,6 +4,8 @@ Frontend developer focused on React, Next.js and TypeScript, with full stack cap
 
 **Currently open to frontend or full stack roles, remote or hybrid (Buenos Aires).**
 
+**Portfolio:** [portfolio-psi-topaz-41.vercel.app](https://portfolio-psi-topaz-41.vercel.app) — four case studies, in English and Spanish
+
 ---
 
 ## Stack
