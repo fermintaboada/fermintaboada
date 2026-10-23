@@ -38,7 +38,7 @@ Frontend developer focused on React, Next.js and TypeScript, with full stack cap
 
 ## Projects
 
-### [Barras Nómades](https://barras-nomades.vercel.app) — Landing page for real client · *in production*
+### [Barras Nómades](https://barras-nomades.vercel.app) — Landing page for client · *in production*
 Landing page for a bartending company in Buenos Aires. Built with Next.js 16, TypeScript and Tailwind CSS v4.
 Scroll-reveal animations with native IntersectionObserver, dynamic OG images via `next/og`, full technical SEO (Open Graph, JSON-LD LocalBusiness schema, sitemap.xml, robots.txt), Vercel Analytics.
 
@@ -46,7 +46,7 @@ Scroll-reveal animations with native IntersectionObserver, dynamic OG images via
 Unified social/e-commerce metrics dashboard for fashion and e-commerce brands, built as part of Upscale Lab, a brand-consulting venture I co-founded. Brings Instagram, Tienda Nube and YouTube data into one place for brands that sell product and work with influencers.
 Gemini AI integration with full brand context (chat + content/image generation), automated weekly email reports with content suggestions, YouTube Data/Analytics API OAuth, n8n-driven metrics pipeline.
 
-### [Peto Tatts](https://peto-tatts.vercel.app) — Portfolio for real client · *in production*
+### [Peto Tatts](https://peto-tatts.vercel.app) — Portfolio for client · *in production*
 Multipage site for a professional tattoo artist in Buenos Aires. Dark visual identity built from scratch.
 Gallery, testimonials, contact form with WhatsApp CTA. End-to-end design and development with no templates.
 
